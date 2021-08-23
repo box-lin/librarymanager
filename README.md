@@ -1,12 +1,12 @@
 # Library Management System
 
----
+
 
 This is an application that manipulates the database through JAVA Swing GUI interaction. We use the [WindowBuilder](https://www.eclipse.org/windowbuilder/) (GUI Designer Plugin on Eclipse IDE) to handle the graphical swing components and [Java JDBC API](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) to connect from Java App to the database through the JDBC driver.. 
 
 This Library Management System is equipped with add, delete, update, and search for books. The underlying implementation principle of these functionalities is relying on the SQL database operation statements.
 
----
+
 
 ## The project folder structure:
 
@@ -34,7 +34,7 @@ This Library Management System is equipped with add, delete, update, and search 
 
 *The util package for database connection interface.*
 
----
+
 
 ## The MySQL Database setting:
 
@@ -51,8 +51,6 @@ This Library Management System is equipped with add, delete, update, and search 
 Utilize the architecture designer to link each entry of the book to a t_bookType for the linked relation of category and book.
 
 ![mysql](https://github.com/boxianglin/LibrarySystem/blob/master/Demo/mysql.png?raw=true)
-
----
 
 ## Demos: 
 
