@@ -11,6 +11,7 @@ This Library Management System is equipped with add, delete, update, and search 
 **The project folder structure:** 
 
 ├── src
+
 │ ├── com
 
 │ │ ├── ls
@@ -49,7 +50,7 @@ This Library Management System is equipped with add, delete, update, and search 
 
 Utilize the architecture designer to link each entry of the book to a t_bookType for the linked relation of category and book.
 
-![mysql](C:\Users\boxiang\Desktop\Github\LibrarySystem\Demo\mysql.png)
+![mysql](https://github.com/boxianglin/LibrarySystem/blob/master/Demo/mysql.png?raw=true)
 
 ---
 
@@ -59,16 +60,16 @@ Utilize the architecture designer to link each entry of the book to a t_bookType
 
 The login page:
 
-![loginPage](C:\Users\boxiang\Desktop\Github\LibrarySystem\Demo\loginPage.png)
+![loginPage](https://github.com/boxianglin/LibrarySystem/blob/master/Demo/loginPage.png?raw=true)
 
 
 
 The Homepage:
 
-![HomePage](C:\Users\boxiang\Desktop\Github\LibrarySystem\Demo\HomePage.png)
+![HomePage](https://github.com/boxianglin/LibrarySystem/blob/master/Demo/HomePage.png?raw=true)
 
 
 
 The book operation:
 
-![BookOperation](C:\Users\boxiang\Desktop\Github\LibrarySystem\Demo\BookOperation.png)
+![BookOperation](https://github.com/boxianglin/LibrarySystem/blob/master/Demo/BookOperation.png?raw=true)
