@@ -6,7 +6,7 @@ This is an application that manipulates the database through JAVA Swing GUI inte
 
 This Library Management System is equipped with add, delete, update, and search for books. The underlying implementation principle of these functionalities is relying on the SQL database operation statements.
 
-The heaviest side of this project is to stand on the user's perspective, improve the graphic interaction for a better user experience. \
+The heaviest side of this project is to stand on the user's perspective, improve the graphic interaction for a better user experience. 
 
 
 
