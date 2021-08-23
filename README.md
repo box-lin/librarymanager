@@ -1,4 +1,4 @@
-## Library Management System
+# Library Management System
 
 ---
 
@@ -8,7 +8,7 @@ This Library Management System is equipped with add, delete, update, and search 
 
 ---
 
-#### The project folder structure:
+## The project folder structure:
 
 ├── src
 
@@ -36,7 +36,7 @@ This Library Management System is equipped with add, delete, update, and search 
 
 ---
 
-#### The MySQL Database setting:
+## The MySQL Database setting:
 
 ├── db_book
 
@@ -54,7 +54,7 @@ Utilize the architecture designer to link each entry of the book to a t_bookType
 
 ---
 
-#### Demos: 
+## Demos: 
 
 
 
