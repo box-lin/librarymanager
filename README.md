@@ -6,6 +6,8 @@ This is an application that manipulates the database through JAVA Swing GUI inte
 
 This Library Management System is equipped with add, delete, update, and search for books. The underlying implementation principle of these functionalities is relying on the SQL database operation statements.
 
+The heaviest side of this project is to stand on the user's perspective, improve the graphic interaction for a better user experience. \
+
 
 
 ## The project folder structure:
@@ -48,7 +50,7 @@ This Library Management System is equipped with add, delete, update, and search 
 
 
 
-Utilize the architecture designer to link each entry of the book to a t_bookType for the linked relation of category and book.
+Utilize the architecture designer to link each **bookTypeId** of the book to a **t_bookType Table** for the linked relation of category and book.
 
 ![mysql](https://github.com/boxianglin/LibrarySystem/blob/master/Demo/mysql.png?raw=true)
 
